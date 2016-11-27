@@ -4,7 +4,7 @@ Created on Wed Aug 31 19:03:02 2016
 
 @author: kiranbv
 """
-
+## This code implements the red hat challenge hosted by kaggle.com. 
 
 # Importing important modules
 import os
